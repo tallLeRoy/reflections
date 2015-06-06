@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 
 	The staging area keeps track of changes to files in the repository that have not yet been committed This puts the changes into a format that the later commit can use without searching every file
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	only use git add on those files related to one change, commit then add in another set of changes
+
