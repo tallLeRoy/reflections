@@ -11,3 +11,20 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	only use git add on those files related to one change, commit then add in another set of changes
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when you are making a fundimental change or experimenting with something. keeps the working version intact.
+
+How do the diagrams help you visualize the branch structure?
+
+	they make it a bit easier to visualize what commits are for each branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	the two branches become one again. one branch continues forward
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	auto merge takes out most of the easy work done in the merge, but it can result in bugs creaping in if changes occur in the same area.
+
+	
