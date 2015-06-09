@@ -14,3 +14,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	you can and adjust to what others have done to the files, and work isolated from the network
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	use git on sneaker-net, but use github if you have access, much easier for collaboration
+
