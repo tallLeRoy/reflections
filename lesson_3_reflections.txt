@@ -18,3 +18,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	use git on sneaker-net, but use github if you have access, much easier for collaboration
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	use branches to expand and test your code or colaborate. working in the master can bite you, but may be fine for small projects
